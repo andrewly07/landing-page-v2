@@ -107,6 +107,7 @@ nav {
   padding: 20px;
   background: #f4f4f4;
   text-align: center;
+  color: #000;
 }
 
 #section-c {
@@ -118,13 +119,10 @@ nav {
 }
 
 #section-c .box1,
+#section-c .box2,
 #section-c .box3 {
   background: #000;
   color: #fff;
-}
-
-#section-c .box2 {
-  background: #948e8e;
 }
 
 @media screen and (max-width: 1024px) {
