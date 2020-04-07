@@ -116,6 +116,7 @@ nav {
 
 #section-c {
   display: flex;
+  background: #000;
 }
 
 #section-c div {
