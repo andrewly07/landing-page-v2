@@ -197,14 +197,15 @@ nav {
   display: flex;
   justify-content: space-around;
   list-style-type: none;
+  color: #fff;
 }
 .social-media li {
   display: flex;
+  text-decoration: none;
 }
 
 .social-media a {
-  text-decoration: none;
-  color: #fff;
   letter-spacing: 4px;
   font-size: 30px;
+  color: #fff;
 }
