@@ -218,3 +218,8 @@ nav {
   margin: auto;
   width: 100%;
 }
+
+.box2,
+.box1 p {
+  font-size: 15px;
+}
